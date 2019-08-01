@@ -30,7 +30,7 @@
 
     },
     {
-      "url": "http://10.173.0.14:9000/dashboards/5cd2960711d94520543adff9",
+      "url": "http://10.173.0.14:9000/dashboards/5cab856d11d9450aba62b765",
       "duration": 20
 
     },
@@ -55,14 +55,10 @@
 
     },
     {
-      "url": "http://10.173.0.14:9000/dashboards/5cab856d11d9450aba62b765",
-      "duration": 20
-
-    },
-    {
-      "url": "http://10.173.0.14:9000/dashboards/5caf635711d945205414b630",
+      "url": "http://10.173.0.14:9000/dashboards/5caf635711d945175414b630",
       "duration": 20
 
     }
+
   ]
 }
