@@ -1,8 +1,8 @@
 {
-  "Lastupdate": "2019.11.13 16:00",
+  "Lastupdate": "2019.12.23 15:00",
   "settingsReloadIntervalMinutes": 15,
   "fullscreen": true,
-  "autoStart": false,
+  "autoStart": true,
   "lazyLoadTabs": false,
   "websites": [
     {
