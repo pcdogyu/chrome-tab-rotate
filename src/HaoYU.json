@@ -7,95 +7,107 @@
   "websites": [
     {
       "url": "http://10.173.0.13/ops/check_mk/index.py?start_url=%2Fops%2Fcheck_mk%2Fdashboard.py",
-      "duration": 20
+      "duration": 17
     },
     {
       "url": "http://10.173.0.14:9000/dashboards/5cd2960711d94517543adff9",
-      "duration": 20
+      "duration": 17
     },
     {
       "url": "http://10.173.0.15/d/yCfVS_gZz/haoyu-server?refresh=1m&orgId=1",
-      "duration": 20
+      "duration": 17
     },
     {
       "url": "http://10.173.0.15/d/mNNbzalmz/platform-open-general?refresh=5m&orgId=1",
-      "duration": 20
+      "duration": 17
     },
     {
       "url": "http://10.173.0.15/d/1ANxz-lmz/platform-open-server?refresh=5m&orgId=1",
-      "duration": 20
+      "duration": 17
     },
     {
       "url": "http://10.173.0.15/d/sNIbk-_mk/platform-mongodb-overview?refresh=5m&orgId=1",
-      "duration": 20
+      "duration": 17
     },
     {
       "url": "http://10.173.0.15/d/vq7bzaliz/platform-elastic-overview?refresh=5m&orgId=1",
-      "duration": 20
+      "duration": 17
     },
     {
       "url": "http://10.173.0.14:9000/dashboards/5cab856d11d9450aba62b765",
-      "duration": 20
+      "duration": 17
     },
     {
       "url": "http://10.173.0.15/d/RbGxk-_mz/platform-async?refresh=5m&orgId=1",
-      "duration": 20
+      "duration": 17
     },
     {
       "url": "http://10.173.0.15/d/kwVxka_iz/platform-key-services?refresh=5m&orgId=1",
-      "duration": 20
+      "duration": 17
     },
     {
       "url": "http://10.173.0.14:9000/dashboards/5dcb9ef311d9452a18b7d127",
-      "duration": 20
+      "duration": 17
     },
     {
       "url": "http://10.173.0.14:9000/dashboards/5cc26f8411d9451754295c57",
-      "duration": 20
+      "duration": 17
     },
     {
-      "url": "http://10.200.3.114/dashboard/db/platform-mqtt-overview?refresh=1m&orgId=1&from=now-24h&to=now",
-      "duration": 20
+      "url": "http://10.200.3.114/dashboard/db/platform-mqtt-overview?refresh=1m&orgId=1&from=now-24h&to=now&var-Platform=prod-us",
+      "duration": 17
     },
     {
-      "url": "http://10.200.3.114/dashboard/db/platform-open-general?refresh=1m&orgId=1&from=now-12h&to=now",
-      "duration": 20
+      "url": "http://10.200.3.114/dashboard/db/platform-mqtt-overview?refresh=1m&orgId=1&from=now-24h&to=now&var-Platform=prod-de",
+      "duration": 17
     },
     {
-      "url": "http://10.200.3.114/dashboard/db/platform-open-server?refresh=1m&orgId=1&from=now-12h&to=now",
-      "duration": 20
+      "url": "http://10.200.3.114/dashboard/db/platform-open-general?refresh=1m&orgId=1&from=now-12h&to=now&var-Platform=prod-us&var-Server=All",
+      "duration": 17
     },
     {
-      "url": "http://10.200.3.114/dashboard/db/platform-redis-overview?refresh=1m&orgId=1&from=now-12h&to=now",
-      "duration": 20
+      "url": "http://10.200.3.114/dashboard/db/platform-open-general?refresh=1m&orgId=1&from=now-12h&to=now&var-Platform=prod-de&var-Server=All",
+      "duration": 17
+    },
+    {
+      "url": "http://10.200.3.114/dashboard/db/platform-open-server?refresh=1m&orgId=1&from=now-12h&to=now&var-Platform=prod-us",
+      "duration": 17
+    },
+    {
+      "url": "http://10.200.3.114/dashboard/db/platform-open-server?refresh=1m&orgId=1&from=now-12h&to=now&var-Platform=prod-de",
+      "duration": 17
+    },
+    {
+      "url": "http://10.200.3.114/dashboard/db/platform-redis-overview?refresh=1m&orgId=1&from=now-12h&to=now&var-Platform=*&var-Database=dwopen&var-Command=All",
+      "duration": 17
     },
     {
       "url": "http://10.200.3.114/dashboard/db/platform-elastic-overview?refresh=1m&orgId=1&from=now-12h&to=now",
-      "duration": 20
+      "duration": 17
     },
     {
-      "url": "http://10.200.3.114/dashboard/db/platform-mongodb-overview?refresh=1m&orgId=1&from=now-12h&to=now",
-      "duration": 20
+      "url": "http://10.200.3.114/dashboard/db/platform-mongodb-overview?refresh=1m&orgId=1&from=now-12h&to=now&var-Platform=*&var-Database=dwopen&var-Collection=All",
+      "duration": 17
     },
     {
-      "url": "http://10.200.3.114/dashboard/db/platform-cdp-overview?refresh=1m&orgId=1&from=now-12h&to=now",
-      "duration": 20
+      "url": "http://10.200.3.114/dashboard/db/platform-cdp-overview?refresh=1m&orgId=1&from=now-12h&to=now&var-Platform=*&var-Engine=jasper",
+      "duration": 17
     },
     {
       "url": "http://10.200.1.81/dashboards/5c4612c997ded3057b875a28",
-      "duration": 20
+      "duration": 17
     },
     {
       "url": "http://10.200.1.81/dashboards/5908e53297ded3057f11cd44",
-      "duration": 20
+      "duration": 17
     },
     {
       "url": "http://10.200.1.81/dashboards/5728c0e697ded3042838a2ad",
-      "duration": 20
+      "duration": 17
     },
     {
       "url": "http://10.200.1.81/dashboards/5729095a97ded305546e72ab",
-      "duration": 20
+      "duration": 17
     }
 
 
