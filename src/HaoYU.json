@@ -50,6 +50,10 @@
       "duration": 20
     },
     {
+      "url": "http://10.173.0.14:9000/dashboards/5cc26f8411d9451754295c57",
+      "duration": 20
+    },
+    {
       "url": "http://10.200.3.114/dashboard/db/platform-mqtt-overview?refresh=1m&orgId=1&from=now-24h&to=now",
       "duration": 20
     },
