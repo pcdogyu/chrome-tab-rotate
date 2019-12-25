@@ -1,5 +1,5 @@
 {
-  "Lastupdate": "2019.12.25 11:30",
+  "Lastupdate": "2019.12.25 15:30",
   "settingsReloadIntervalMinutes": 60,
   "fullscreen": true,
   "autoStart": true,
@@ -70,7 +70,7 @@
       "duration": 17
     },
     {
-      "url": "http://10.200.3.114/dashboard/db/platform-elastic-overview?refresh=1m&orgId=1&from=now-6h&to=now",
+      "url": "http://10.200.3.114/dashboard/db/platform-elastic-overview?refresh=1m&orgId=1&from=now-6h&to=now&var-Platform=*",
       "duration": 17
     },
     {
