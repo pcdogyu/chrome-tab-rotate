@@ -1,6 +1,6 @@
 {
-  "Lastupdate": "2019.12.23 15:00",
-  "settingsReloadIntervalMinutes": 15,
+  "Lastupdate": "2019.12.25 11:30",
+  "settingsReloadIntervalMinutes": 60,
   "fullscreen": true,
   "autoStart": true,
   "lazyLoadTabs": false,
@@ -54,43 +54,31 @@
       "duration": 17
     },
     {
-      "url": "http://10.200.3.114/dashboard/db/platform-mqtt-overview?refresh=1m&orgId=1&from=now-24h&to=now&var-Platform=prod-us",
+      "url": "http://10.200.3.114/dashboard/db/platform-mqtt-overview?refresh=1m&orgId=1&from=now-6h&to=now&var-Platform=*",
       "duration": 17
     },
     {
-      "url": "http://10.200.3.114/dashboard/db/platform-mqtt-overview?refresh=1m&orgId=1&from=now-24h&to=now&var-Platform=prod-de",
+      "url": "http://10.200.3.114/dashboard/db/platform-open-general?refresh=1m&orgId=1&from=now-6h&to=now&var-Platform=*&var-Server=All",
       "duration": 17
     },
     {
-      "url": "http://10.200.3.114/dashboard/db/platform-open-general?refresh=1m&orgId=1&from=now-12h&to=now&var-Platform=prod-us&var-Server=All",
+      "url": "http://10.200.3.114/dashboard/db/platform-open-server?refresh=1m&orgId=1&from=now-6h&to=now&var-Platform=*",
       "duration": 17
     },
     {
-      "url": "http://10.200.3.114/dashboard/db/platform-open-general?refresh=1m&orgId=1&from=now-12h&to=now&var-Platform=prod-de&var-Server=All",
+      "url": "http://10.200.3.114/dashboard/db/platform-redis-overview?refresh=1m&orgId=1&from=now-6h&to=now&var-Platform=*&var-Database=dwopen&var-Command=All",
       "duration": 17
     },
     {
-      "url": "http://10.200.3.114/dashboard/db/platform-open-server?refresh=1m&orgId=1&from=now-12h&to=now&var-Platform=prod-us",
+      "url": "http://10.200.3.114/dashboard/db/platform-elastic-overview?refresh=1m&orgId=1&from=now-6h&to=now",
       "duration": 17
     },
     {
-      "url": "http://10.200.3.114/dashboard/db/platform-open-server?refresh=1m&orgId=1&from=now-12h&to=now&var-Platform=prod-de",
+      "url": "http://10.200.3.114/dashboard/db/platform-mongodb-overview?refresh=1m&orgId=1&from=now-6h&to=now&var-Platform=*&var-Database=dwopen&var-Collection=All",
       "duration": 17
     },
     {
-      "url": "http://10.200.3.114/dashboard/db/platform-redis-overview?refresh=1m&orgId=1&from=now-12h&to=now&var-Platform=*&var-Database=dwopen&var-Command=All",
-      "duration": 17
-    },
-    {
-      "url": "http://10.200.3.114/dashboard/db/platform-elastic-overview?refresh=1m&orgId=1&from=now-12h&to=now",
-      "duration": 17
-    },
-    {
-      "url": "http://10.200.3.114/dashboard/db/platform-mongodb-overview?refresh=1m&orgId=1&from=now-12h&to=now&var-Platform=*&var-Database=dwopen&var-Collection=All",
-      "duration": 17
-    },
-    {
-      "url": "http://10.200.3.114/dashboard/db/platform-cdp-overview?refresh=1m&orgId=1&from=now-12h&to=now&var-Platform=*&var-Engine=jasper",
+      "url": "http://10.200.3.114/dashboard/db/platform-cdp-overview?refresh=1m&orgId=1&from=now-6h&to=now&var-Platform=*&var-Engine=jasper",
       "duration": 17
     },
     {
