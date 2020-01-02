@@ -1,8 +1,9 @@
 {
-  "Lastupdate": "2019.12.25 15:30",
+  "Lastupdate": "2020.1.2 13:30",
+  "Author": "hao.yu@telit.com",
   "settingsReloadIntervalMinutes": 60,
   "fullscreen": true,
-  "autoStart": true,
+  "autoStart": false,
   "lazyLoadTabs": false,
   "websites": [
     {
@@ -54,31 +55,31 @@
       "duration": 17
     },
     {
-      "url": "http://10.200.3.114/dashboard/db/platform-mqtt-overview?refresh=1m&orgId=1&from=now-6h&to=now&var-Platform=*",
+      "url": "http://10.200.3.114/dashboard/db/platform-mqtt-overview?refresh=1m&orgId=1&from=now-6h&to=now&var-Platform=prod*",
       "duration": 17
     },
     {
-      "url": "http://10.200.3.114/dashboard/db/platform-open-general?refresh=1m&orgId=1&from=now-6h&to=now&var-Platform=*&var-Server=All",
+      "url": "http://10.200.3.114/dashboard/db/platform-open-general?refresh=1m&orgId=1&from=now-6h&to=now&var-Platform=prod*&var-Server=All",
       "duration": 17
     },
     {
-      "url": "http://10.200.3.114/dashboard/db/platform-open-server?refresh=1m&orgId=1&from=now-6h&to=now&var-Platform=*",
+      "url": "http://10.200.3.114/dashboard/db/platform-open-server?refresh=1m&orgId=1&from=now-6h&to=now&var-Platform=prod*",
       "duration": 17
     },
     {
-      "url": "http://10.200.3.114/dashboard/db/platform-redis-overview?refresh=1m&orgId=1&from=now-6h&to=now&var-Platform=*&var-Database=dwopen&var-Command=All",
+      "url": "http://10.200.3.114/dashboard/db/platform-redis-overview?refresh=1m&orgId=1&from=now-6h&to=now&var-Platform=prod*&var-Database=dwopen&var-Command=All",
       "duration": 17
     },
     {
-      "url": "http://10.200.3.114/dashboard/db/platform-elastic-overview?refresh=1m&orgId=1&from=now-6h&to=now&var-Platform=*",
+      "url": "http://10.200.3.114/dashboard/db/platform-elastic-overview?refresh=1m&orgId=1&from=now-6h&to=now&var-Platform=prod*",
       "duration": 17
     },
     {
-      "url": "http://10.200.3.114/dashboard/db/platform-mongodb-overview?refresh=1m&orgId=1&from=now-6h&to=now&var-Platform=*&var-Database=dwopen&var-Collection=All",
+      "url": "http://10.200.3.114/dashboard/db/platform-mongodb-overview?refresh=1m&orgId=1&from=now-6h&to=now&var-Platform=prod*&var-Database=dwopen&var-Collection=All",
       "duration": 17
     },
     {
-      "url": "http://10.200.3.114/dashboard/db/platform-cdp-overview?refresh=1m&orgId=1&from=now-6h&to=now&var-Platform=*&var-Engine=jasper",
+      "url": "http://10.200.3.114/dashboard/db/platform-cdp-overview?refresh=1m&orgId=1&from=now-6h&to=now&var-Platform=prod*&var-Engine=jasper",
       "duration": 17
     },
     {
